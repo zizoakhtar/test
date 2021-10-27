@@ -48,3 +48,4 @@ For now the student service only provides the first student with the "_getStuden
 When I refresh the detail page, I still display this detail page.
 
 The detail page contains a "return" button that goes back to the student list.
+#kkkkkkkkk
